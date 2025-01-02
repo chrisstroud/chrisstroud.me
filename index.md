@@ -12,5 +12,5 @@ Please feel free to get in touch at stroud.c@gmail.com or 510-825-0165
 
 [Resume](./Chris_Stroud_Resume.pdf)
 
-[LinkedIn](https://www.linkedin.com/in/chris-stroud)
+[LinkedIn](https://www.linkedin.com/in/chrisstroud)
 
