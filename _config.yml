@@ -1,6 +1,5 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+title: Hi, I'm Chris.
+logo: /assets/img/profile.jpg
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
