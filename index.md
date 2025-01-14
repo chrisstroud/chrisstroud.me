@@ -14,3 +14,11 @@ Please feel free to get in touch at stroud.c@gmail.com or 510-825-0165
 
 [LinkedIn](https://www.linkedin.com/in/chrisstroud)
 
+[Github](https://github.com/chrisstroud)
+
+[X](https://x.com/ChrisRStroud)
+
+
+
+
+
