@@ -16,8 +16,6 @@ Please feel free to get in touch at stroud.c@gmail.com or 510-825-0165
 
 [Github](https://github.com/chrisstroud)
 
-[X](https://x.com/ChrisRStroud)
-
 
 
 
