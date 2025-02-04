@@ -8,7 +8,7 @@ In my most recent role as Director of Data Analytics & BizOps at Xola, I built t
 
 <b>I'm currently looking for my next opportunity and would love to connect.</b>
 
-Please feel free to get in touch at stroud.c@gmail.com or 510-825-0165
+Please feel free to get in touch at chris.ryan.stroud@gmail.com or 510-825-0165
 
 [Resume](./Chris_Stroud_Resume.pdf)
 
