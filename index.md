@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<h1>Hi, i'm Chris<h2>
+# [Hi, I'm Chris](https://christroud.me)
 
 I’ve spent the last decade working at early-stage SaaS companies. Thats my jam.
 
