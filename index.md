@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<h1>Hi, i'm Chris<h2>
+
 I’ve spent the last decade working at early-stage SaaS companies. Thats my jam.
 
 Most recently I was the Director of Business Operations @ Xola (B2B Vertical SaaS) where I wore a lot of hats — leading BizOps, RevOps, and Analytics, reporting to the CEO, and working closely with teams across Sales, Marketing, CS, and Product. 
@@ -13,3 +15,4 @@ Most recently I was the Director of Business Operations @ Xola (B2B Vertical Saa
 [Connect on LinkedIn](https://www.linkedin.com/in/chrisstroud)
 
 
+ 
