@@ -2,14 +2,14 @@
 layout: default
 ---
 
-Experienced Business & Revenue Operations manager with 10+ years supporting B2B SaaS companies from Seed to Series B. I scale teams and revenue through data, systems, and cross-functional execution. Most recently, I led BizOps, RevOps, and Analytics at Xola, reporting to the CEO and helping drive GTM , cross-functional execution , and stategic planning.
+I’ve spent the last decade working at early-stage SaaS companies. Thats my jam.
 
-<b>Open to new opportunities</b> — remote or hybrid/in-person in the San Francisco Bay Area. Feel free to get in touch at chris.ryan.stroud@gmail.com, (510) 825-0165, or schedule a time to chat using the widget. 
+Most recently I was the Director of Business Operations @ Xola (B2B Vertical SaaS) where I wore a lot of hats — leading BizOps, RevOps, and Analytics, reporting to the CEO, and working closely with teams across Sales, Marketing, CS, and Product. 
 
-[2025 Resume](./Chris_Stroud_Resume.pdf)
+<b>I'm curerntly open to new opportunities</b> — remote or hybrid/in-person in the San Francisco Bay Area. Feel free to get in touch at chris.ryan.stroud@gmail.com, (510) 825-0165, or schedule a time to chat using the widget in the bottom-right hand corner. 
+
+[2025 Resume PDF](./Chris_Stroud_Resume.pdf)
 
 [Connect on LinkedIn](https://www.linkedin.com/in/chrisstroud)
-
-
 
 
