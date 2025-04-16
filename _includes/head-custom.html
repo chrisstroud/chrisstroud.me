@@ -7,3 +7,9 @@
 <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/img/chris_stroud.ico' | relative_url }}">
 
 <!-- end custom head snippets -->
+
+{% if page.title %}
+  <title>{{ page.title }}</title>
+{% else %}
+  <title>{{ site.title }} | {{ site.tagline }}</title>
+{% endif %}

@@ -1,5 +1,6 @@
 ---
 layout: default
+title: "Chris Stroud | BizOps, RevOps, and Analytics"
 ---
 
 # [Hi, I'm Chris](https://christroud.me)
