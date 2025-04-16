@@ -4,7 +4,7 @@ layout: default
 
 # [Hi, I'm Chris](https://christroud.me)
 
-I love working at early-stage startups. That’s my jam.
+I love working at early-stage startups. That's my jam.
 
 Most recently, I was the Director of Business Operations @ [Xola](https://www.xola.com) (B2B Vertical SaaS, 100+ people, 15M+ ARR), where I wore a lot of hats — leading BizOps, RevOps, and Analytics, reporting directly to the CEO for 7 years, and working cross-functionally with teams across Sales, Marketing, Customer Success, Engineering, and Product. 
 
