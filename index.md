@@ -6,7 +6,7 @@ description: "Director of Business Operations specializing in BizOps, RevOps, an
 
 # [Hi, I'm Chris](https://christroud.me)
 
-I build operations functions at early-stage startups. That’s my jam.
+I love working at early-stage startups. That’s my jam.
 
 Most recently, I was Director of Business Operations at Xola (B2B Vertical SaaS, 100+ people, $15M+ ARR), where I spent 7 years leading BizOps, RevOps, and Analytics. I reported directly to the CEO and worked cross-functionally across Sales, Marketing, CS, Product, and Engineering to help the company scale.
 
