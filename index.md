@@ -8,9 +8,7 @@ description: "Principal, Data & AI specializing in analytics, AI agents, BizOps,
 
 I love working at early-stage startups. That’s my jam.
 
-Currently, I am the **Principal, Data & AI** at [Flaunt](https://www.flauntloyalty.com/), where I own the data infrastructure supporting analytics within our SaaS application, an AI Data Agent, and client-facing analyses for our consulting team.
-
-Previously, I was Director of Business Operations at [Xola](https://xola.com/), where I spent 9 years leading Data Analytic & BizOps. I reported directly to the CEO and collaborated cross-functionally across Sales, Marketing, Customer Success, Product, and Engineering.
+Currently, I am the Principal, Data & AI at [Flaunt](https://www.flauntloyalty.com/). Previously, I was Director of Business Operations at [Xola](https://xola.com/), where I spent 9 years leading Data Analytic & BizOps. I reported directly to the CEO and collaborated cross-functionally across Sales, Marketing, Customer Success, Product, and Engineering.
 
 I am currently working full-time but remain open to consulting opportunities. You can reach me at [chris.ryan.stroud@gmail.com](mailto:chris.ryan.stroud@gmail.com) or (510) 825-0165.
 
